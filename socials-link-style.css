@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background: #283E4A;
+    height: 55px;
+}
+
+.full-container {
+    width: 1100px;
+    margin: 66px auto;
+    display: block;
+}
+
+.logo {
+    float: left;
+    width: 40%;
+    margin-top: 15px;
+}
+.logo img {
+    
+}
+
+.signin-part {
+    width: 48%;
+    float: right;
+    margin-top: 10px;
+    margin-right: 120px;
+    padding: 5px;
+}
+.signin-part form {}
+.signin-part form input {}
+.signin-part form a {
+    color: #fff;
+    font-style: none;
+}
+
+.body-part {
+    background: url(images/linkedinimage.jpg.jpg) no-repeat top center;
+    background-size: cover;
+    height: 121vh;
+    background-position: center;
+    overflow: hidden;
+}
+
+.body-part form {
+    width: 440px;
+    margin: 42px auto;
+    border: 1px solid #176dc3;
+}
+.header-form h3 {
+    font-size: 25px;
+    margin-bottom: 5px;
+    color: #111161;
+}
+.header-form p {
+    font-size: 18px;
+    color: #111161;
+}
+.header-form {
+    background: #EDF0F3;
+    padding: 20px 62px;
+    text-align: center;
+}
+
+.form-contain {
+    background: #D1D3D5;
+    padding: 30px;
+    overflow: hidden;
+}
+.form-contain ul {}
+.form-contain ul li {
+    float: left;
+    list-style: none;
+    margin: 0 10px;
+}
+.form-contain ul li label {
+    display: block;
+    font-size: 18px;
+}
+.form-contain ul li input {
+    display: block; 
+    padding: 5px;  
+    width: 100%;  
+    border-radius: 2px; 
+    border: 1px solid #fff; 
+    margin: 7px 0;
+}
+
+.form-contain p {
+    font-size: 14px;
+    margin: 16px 0;
+    display: block;
+    line-height: 1.33333;
+    font-weight: 400;
+    color: rgba(0,0,0,0.8);
+    text-align: center;
+}
+
+input.login_button {
+    padding: 0 8px;   
+    background-color: #0073b1;   
+    border-radius: 4px;   
+    font-size: 24px;   
+    line-height: 1.5;   
+    font-weight: 500;   
+    color: #fff;   
+    border: 1px solid #2c3e50;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+
+body {
+    background: #F5F5F5;
+}
+.full-container {
+    width: 1000px;
+    height: 600px;
+    background: #e6e6e6;
+    margin: 0 auto;
+}
+
+.row-3-1 {
+    width: 33.33%;
+    height: 200px;
+    float: left;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.orange {
+    background: #f39c12;
+    height: 100%;
+}
+.greensea {
+    background: #16a085;
+    height: 100%;
+}
+.nephritis {
+    background: #27ae60;
+    height: 100%;
+}
+.belizehole {
+    background: #2980b9;
+    height: 100%;
+}
+.row-3-2 {
+    width: 66.66%;
+    float: left;
+    height: 200px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.height-auto {
+    height: 100% !important;
+}
+.rumpkin {
+    background: #d35400;
+    height: 100%;
+}
+.pomegranate {
+    background: #460e20;
+    height: 100%;
+}
+.row-2-1 {
+    width: 50%;
+    height: 200px;
+    float: left;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.sunflower {
+    background: #8e44ad;
+    height: 100%;
+}
+.row-5-3 {
+    width: 40%;
+    height: 200px;
+    float: left;
+    padding: 5px;
+    box-sizing: border-box; 
+}
+.carrot {
+    background: #e67e22;
+    height: 100%;
+}
+.row-5-2 {
+    width: 10%;
+    height: 200px;
+    float: left;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.alizarin {
+    background: #e74c3c;
+    height: 100%;
+}

@@ -1,0 +1,85 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+body {
+    background: #F5F5F5;
+}
+.full-container {
+    margin: 0px 100px;  
+    
+}
+
+.header-top h1, h3, h3 {
+    text-align: center;
+}
+
+.header {
+    margin: 25px 90px;
+}
+.left-side {
+    float: left;
+}
+.right-side {
+    float: right;
+}
+
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: block;
+}
+.clearfix:after {
+    clear: both;
+}
+
+.table-list h2 {
+    text-align: center;
+}
+
+#box {
+    margin: 20px 15px;
+}
+
+.table-list table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#box th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    color: black;
+}
+
+#box th, #box td {
+    border: 1px solid #4CAF50;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    height: 30px;
+    background: #4CAF50;
+}
+
+#box th {
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
